@@ -3,7 +3,7 @@ TabPFN-Based Retrieval Model for Water Quality Parameters (DIN/DIP)
 
 ## Project Introduction
 
-This repository implements the regression retrieval functionality for Dissolved Inorganic Nitrogen (DIN) and Dissolved Inorganic Phosphorus (DIP) based on the TabPFN model. The code corresponds to the paper 《An Interpretable Transformer-Based Framework for Monitoring Dissolved Inorganic Nitrogen and Phosphorus in Jiangsu–Zhejiang–Shanghai Offshore》, and includes two core types of scripts for model training and data production, which can be directly used to reproduce the relevant experimental results in the paper.
+This repository implements the regression retrieval functionality for Dissolved Inorganic Nitrogen (DIN) and Dissolved Inorganic Phosphorus (DIP) based on the TabPFN model. The code corresponds to the paper "An Interpretable Transformer-Based Framework for Monitoring Dissolved Inorganic Nitrogen and Phosphorus in Jiangsu–Zhejiang–Shanghai Offshore", and includes two core types of scripts for model training and data production, which can be directly used to reproduce the relevant experimental results in the paper.
 
 Core Dependency: TabPFN (Official Repository: https://github.com/PriorLabs/TabPFN)
 
