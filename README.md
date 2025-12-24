@@ -23,7 +23,7 @@ Core Dependency: TabPFN (Official Repository: https://github.com/PriorLabs/TabPF
 ## Dependency Installation
 ```bash
 pip install tabpfn
-pip install numpy pandas scikit-learn torch
+pip install numpy pandas scikit-learn h5py xarray tqdm torch
 ```
 
 ## Products
