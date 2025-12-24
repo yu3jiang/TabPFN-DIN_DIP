@@ -43,6 +43,6 @@ Usage Notes:
 
 - It is only for academic research and non-commercial use. Commercial use must comply with the license terms of the original TabPFN project and this repository.
 
-Acknowledgements
+## Acknowledgements
 
 We would like to thank the TabPFN development team for providing the basic model support, as well as the technical contributions from the relevant open-source communities. Official TabPFN repository link: https://github.com/PriorLabs/TabPFN.
