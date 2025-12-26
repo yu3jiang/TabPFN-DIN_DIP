@@ -17,6 +17,8 @@ Core Dependency: TabPFN (Official Repository: https://github.com/PriorLabs/TabPF
 
 - Production_DIP.py: Loads the pre-trained DIP model weights, performs DIP parameter prediction on input data, and outputs formatted retrieval results.
 
+- Data_DIN.csv / Data_DIP.csv: The preprocessed match-up dataset used for model development.
+
 ## Environment Requirements
 **Python Version**: ≥ 3.9
 
